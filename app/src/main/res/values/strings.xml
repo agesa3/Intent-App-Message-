@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Intent App</string>
+    <string name="send">SEND</string>
+    <string name="reply">Enter your reply here</string>
+    <string name="type_your_message_here">Type your message here</string>
+    <string name="message_reply">Message reply</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+    <string name="text_header_reply">Reply Received</string>
+
+</resources>
